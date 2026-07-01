@@ -5,7 +5,7 @@
 </h1>
 <h3>Aspiring SOC Analyst | Trained at Gardiyan SST | SIEM · Log Analysis · Threat Detection </h3>
 <div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+  <img align="right" width="250" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="180" alt="Hacker at work" />
 <p>
     I’m focused on building real-world cybersecurity skills through hands-on practice and continuous learning.  
   I like understanding how systems break, how vulnerabilities are exploited, and how to secure them.
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 <a href="https://instagram.com/h_.a_ri">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge\&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 <a href="https://linkedin.com/in/Harilal P">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
