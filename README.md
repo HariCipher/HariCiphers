@@ -1,10 +1,10 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=Harilal&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOC%20·%20Incident%20Response%20·%20Blue%20Team&descAlignY=60&descSize=16&descColor=7d8590" width="100%"/>
-</div>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=SOC+Analyst;Malware+Traffic+Analysis;SIEM+%7C+Threat+Hunting+%7C+IR;Blue+Teamer" alt="Typing SVG" /></a>
 
+</div>
 </div>
 </p><div align="center">
 
@@ -14,9 +14,6 @@
 
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
-<br>
-<br>
-
 <h3><code>hari@github ~ $ whoami</code></h3>
 
 <table>
