@@ -27,14 +27,13 @@
 <br>
 
 <h3><code>HariCipher@github ~ $ GitHub Stats</code></h3>
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-nu-indol-97.vercel.app/api?username=HariCipher&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=HariCipher&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-stats-nu-indol-97.vercel.app/api/top-langs/?username=HariCipher&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-fhfiap706-chiefgyk3ds-projects.vercel.app/api?user=ChiefGyk3D&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9"/>
+  <img src="https://github-readme-streak-stats-fhfiap706-chiefgyk3ds-projects.vercel.app/api?user=HariCipher&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9"/>
 </div>
 
 <h3><code>HariCipher@github ~ $ links</code></h3>
