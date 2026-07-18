@@ -40,7 +40,7 @@
 
 <p><b>Aspiring SOC Analyst · DFIR · Blue Teamer</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://HariCipher.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Harilal-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://HariCipher.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harilal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thisisharilal)
 [![Instagram](https://img.shields.io/badge/Discord-menace-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://discord.com/channels/@me)
 <br>
