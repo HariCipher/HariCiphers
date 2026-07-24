@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./hari-ascii.svg" width="370" alt="harilal — ASCII portrait" /></td>
+<td valign="top"><img src="./hari-ascii.svg" width="370" alt="harilal — ASCII portrait" />
 <td valign="top"><img src="./info-card.svg" width="490" alt="harilal — experience, skills, highlights" /></td>
 </tr>
 </table>
